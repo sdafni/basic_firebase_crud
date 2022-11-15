@@ -37,7 +37,7 @@ const AddJob = ({ onAdd }) => {
         <label>Job title</label>
         <input
           id='jobTitle'
-          type='text'
+          type='text' xcxxx
           placeholder='Job title'
           value={jobTitle}
           onChange={(e) => setjobTitle(e.target.value)}
